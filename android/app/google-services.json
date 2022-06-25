@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "649635453029",
+    "project_id": "shen-6832a",
+    "storage_bucket": "shen-6832a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:649635453029:android:ef3cec7e044143f6708e8c",
+        "android_client_info": {
+          "package_name": "com.example.shen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "649635453029-irssb46bduqfadr9a8oe2baunf6gvibb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2208ykQpPUH9ehqqn1Q-kYov5a7v1kE8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "649635453029-irssb46bduqfadr9a8oe2baunf6gvibb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
